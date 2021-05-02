@@ -1,5 +1,5 @@
-# make_ext4fs for HandsomeMod
-## termux make_ext4fs img2simg simg2img sefcontext_decompile
+# simg-tools for HandsomeMod
+## make_ext4fs img2simg simg2img sefcontext_decompile
 
 
 
